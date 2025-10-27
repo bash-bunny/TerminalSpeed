@@ -19,15 +19,15 @@ time urxvtc -e sh -c "exit"
 
 ![Kitty Speed](images/kitty.png)
 
-`alacritty` goes around 0.12-0.17 seconds
+`alacritty` goes around 0.15-0.17 seconds
 
 ![Alacritty Speed](images/alacritty.png)
 
-`st` goes around 0.067-0.073 seconds
+`st` goes around 0.051-0.055 seconds
 
 ![St Speed](images/st.png)
 
-`urxvt` with the daemon(`urxvtd` and `urxvtc`) goes around 0.015 seconds
+`urxvt` with the daemon(`urxvtd` and `urxvtc`) goes around 0.010 seconds
 
 ![Urxvt Speed](images/urxvtc.png)
 
