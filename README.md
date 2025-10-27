@@ -25,7 +25,7 @@ time urxvtc -e sh -c "exit"
 
 `st` goes around 0.067-0.073 seconds
 
-![St Speed]((images/st.png)
+![St Speed](images/st.png)
 
 `urxvt` with the daemon(`urxvtd` and `urxvtc`) goes around 0.015 seconds
 
